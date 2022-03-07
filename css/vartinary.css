@@ -1,0 +1,11 @@
+#header-content .navbar{
+    background-color: #fcc302;
+}
+#header-content .navbar .input-group .form-control{
+    padding: 9px 20px;
+    border-radius: 0;
+    background-color: #fcc302;
+    border:0;
+    box-shadow: 5px 10px  15px 20px #fcc302;
+
+}
